@@ -25,7 +25,7 @@
 
 ### 从 Git 安装固定分发版本
 
-`main` 保存 TypeScript 源码。以下 Git 安装链接固定到本仓库的 `v0.1.0` 预构建分发提交。
+`main` 保存 TypeScript 源码。以下 Git 安装链接固定到本仓库的预构建分发提交，其 `package.json` 版本为 `0.1.0`。
 
 ```bash
 npm install -g git+https://github.com/HitGameAI/openapi-generator-ts-cli.git#e0c2d381f14eb373cafda7b795a13cb779d12dc5
